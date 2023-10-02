@@ -1,0 +1,5 @@
+﻿Git clone « lien du repository »
+
+Git add « nom du fichier »
+Git commit -m «description »
+Git push -u origin main
