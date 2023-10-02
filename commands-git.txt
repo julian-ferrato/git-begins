@@ -5,3 +5,6 @@ git commit -m «description »
 git push -u origin main
 
 git pull ou git pull all
+
+git branch "nom de la branche"
+git checkout "nom de la branche"
